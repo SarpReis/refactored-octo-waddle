@@ -1,0 +1,43 @@
+
+h1{
+    margin: 45px;
+}
+#baslikparagrafi{
+    margin: -30px 20px auto auto;
+}
+body{
+    text-align: center;
+    background: rgb(204, 102, 0);
+}
+ #mainone{
+     font-family: sans-serif;
+    width: 800px;
+    margin: 50px auto 30px auto;
+    background: rgb(128, 0, 0);
+    border-radius: 50px;
+    color: pink;
+}
+ #maintwo{
+     font-family: sans-serif;
+    width: 800px;
+    margin: 50px auto 30px auto;
+    background: rgb(128, 0, 0);
+    border-radius: 50px;
+    color: pink;
+ }
+ #mainthree{
+    font-family: sans-serif;
+   width: 800px;
+   margin: 50px auto 30px auto;
+   background: rgb(128, 0, 0);
+   border-radius: 50px;
+   color: pink;
+}
+#mainfour{
+    font-family: sans-serif;
+   width: 800px;
+   margin: 50px auto 30px auto;
+   background: rgb(128, 0, 0);
+   border-radius: 50px;
+   color: pink;
+}
