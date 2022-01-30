@@ -1,0 +1,29 @@
+#başlık{
+    text-align: center;
+    color: pink;
+    margin: 50px;
+}
+#ilkparagraf{
+    text-align: center;
+    color: pink;
+}
+#ikinciparagraf{
+    text-align: center;
+    color: pink;
+}
+a{
+    text-decoration: none;
+}
+#resim{
+    border-radius: 50px;
+}
+body{
+    text-align: center;
+    background-color: rgb(204, 102, 0);
+}
+main{
+    width: 800px;
+    margin: 50px auto 30px auto ;
+    background: rgb(128, 0, 0);
+    border-radius: 50px;
+}
